@@ -1,4 +1,4 @@
 def fun(a):
-  i = 1
+  i = 5 
   return i + a       # Noncompliant
   i += 1             # this is never executed
